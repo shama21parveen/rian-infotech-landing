@@ -49,7 +49,7 @@ export default function Hero() {
         variants={container}
         initial={reduceMotion ? false : "hidden"}
         animate="show"
-        className="relative mx-auto max-w-6xl px-5 pb-20 pt-16 text-center md:pt-24"
+        className="relative mx-auto max-w-6xl px-5 pb-20 pt-28 text-center md:pt-24"
       >
         <motion.span
           variants={item}
