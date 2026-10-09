@@ -4,7 +4,7 @@ A modern SaaS-style landing page for Rian Infotech, built for the Frontend Devel
 
 ## Live Demo
 
-Add the deployed Vercel URL here after deployment.
+https://rian-infotech-landing-two.vercel.app/
 
 ## Features
 
