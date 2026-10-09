@@ -20,12 +20,12 @@ export default function TorchLayers() {
     <>
       {/* 1. andhere mein lagbhag invisible words */}
       <div aria-hidden="true" className="pointer-events-none absolute inset-0 z-0">
-        <Words className="text-white/4" />
+        <Words className="text-white/[0.018] sm:text-white/4" />
       </div>
 
       {/* 2. wahi words, sirf torch ke circle mein roshan */}
       <div aria-hidden="true" className="fx-torch-reveal pointer-events-none absolute inset-0 z-0">
-        <Words className="text-brand-100/45" />
+        <Words className="text-brand-100/18 sm:text-brand-100/45" />
       </div>
 
       {/* 3. content ke upar warm roshni */}

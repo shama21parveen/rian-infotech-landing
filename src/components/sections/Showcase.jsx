@@ -16,7 +16,7 @@ export default function Showcase() {
     <section
       id="work"
       ref={spotlightRef}
-      className="fx-spot section-pull section-pull-dark relative scroll-mt-24 overflow-hidden bg-ink py-24 text-white"
+      className="fx-spot relative scroll-mt-24 overflow-hidden bg-ink py-24 text-white"
     >
       <TorchLayers />
 
