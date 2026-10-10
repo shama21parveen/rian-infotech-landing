@@ -95,11 +95,3 @@ Output directory:
 dist
 ```
 
-## Submission Notes
-
-For submission, include:
-
-- GitHub repository link
-- Live deployed website URL
-- This README with setup instructions
-- A short explanation of the design and animation approach
